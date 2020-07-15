@@ -7,7 +7,7 @@ Ridiculous situation, and you can't disable gamepad in oculus software.
   
 This blocker provide hack to resolve this.  
   
-How to build(you can get already builded libraries ib Release section):  
+How to build(you can get already builded libraries from folder dlls_x64):  
 Open FakeXINPUT.dpr in delphi and build x64 target  
 Make 5 copyes of dll and rename to:  
 xinput1_1.dll  
