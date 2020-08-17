@@ -20,6 +20,8 @@ How to install:
 copy pack of dll in each folder in "C:\Program Files\Oculus\Support\"  
 restart  
   
+VIDEO: https://www.youtube.com/watch?v=10uc_rELoyg
+  
 now oculus can't interact with xinput devices like wheels or xbox controller  
   
 *WHY DELPHI???  
