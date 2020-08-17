@@ -2,7 +2,7 @@
 XInput dll which always return DEVICE_NOT_CONNECTED  
   
 Its made especially for Oculus PC users.  
-When you you oculus software - its connect to xinput devices and you can't play vr game, because gamepad interact with oculus.  
+When you use oculus software - its connect to xinput devices and you can't play vr game, because gamepad interact with oculus.  
 Ridiculous situation, and you can't disable gamepad in oculus software.  
   
 This blocker provide hack to resolve this.  
@@ -20,7 +20,7 @@ How to install:
 copy pack of dll in each folder in "C:\Program Files\Oculus\Support\"  
 restart  
   
-not oculus can't interact with xinput devices like wheels or xbox controller  
+now oculus can't interact with xinput devices like wheels or xbox controller  
   
 *WHY DELPHI???  
 No redists. If you bild dll in delphi its not requeired any additional files to work
